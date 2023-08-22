@@ -1,0 +1,1 @@
+insert into Fruta(id, nome, qtd) values (nextval('hibernate_sequence'), 'Banana', 6);
